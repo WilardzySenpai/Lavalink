@@ -1,5 +1,5 @@
 # Lavalink on Replit
-[![Run on Repl.it](https://replit.com/github/WilardzySenpai/Lavalink-on-replit-)](https://repl.it/github/DarrenOfficial/lavalink-replit)
+[![Run on Repl.it](https://repl.it/badge/github/WilardzySenpai/Lavalink-on-replit-)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
 
 
