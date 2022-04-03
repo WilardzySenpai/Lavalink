@@ -1,5 +1,5 @@
 # Lavalink on Replit
-[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
+[![Run on Repl.it](https://replit.com/github/WilardzySenpai/Lavalink-on-replit-)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
 
 
@@ -7,8 +7,7 @@
 
 Fork this github repository. then create a new replit project.
 
-or [click me](https://replit.com/github/WilardzySenpai
-/Lavalink-on-replit-) to install it automatically.
+or [click me](https://replit.com/github/WilardzySenpai/Lavalink-on-replit-) to install it automatically.
 
 # How to use
 * Run the replit
