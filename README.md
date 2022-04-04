@@ -1,4 +1,4 @@
-# Lavalink on Replit
+# Can also run in replit
 [![Run on Repl.it](https://repl.it/badge/github/WilardzySenpai/Lavalink-on-replit-)](https://repl.it/github/WilardzySenpai/Lavalink-on-replit-)
 
 
